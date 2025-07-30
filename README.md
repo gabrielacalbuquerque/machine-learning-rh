@@ -1,7 +1,5 @@
 # 📑 Ficha Técnica: Modelo Preditivo de Rotatividade de Funcionários
 
-**Data:** 30 de julho de 2025  
-
 ---
 
 ## 1. 🎯 Objetivo do Projeto
