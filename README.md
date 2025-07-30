@@ -10,6 +10,7 @@ O objetivo é permitir que o departamento de RH tome ações proativas para a re
 
 ## 2. 🛠️ Ferramentas e Dados
 - **Plataforma:** Google Colab  
+  🔗 [Abrir no Google Colab](https://colab.research.google.com/drive/1p5d-Es9vyEDT4pZgTCLkCM-ZCAHPJIsc?usp=sharing)) 
 - **Linguagem e Bibliotecas:** Python (Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn)  
 - **Fonte dos Dados:** Conjunto de dados de RH fornecido pela empresa, contendo **4.410 registros** iniciais com informações demográficas, de cargo, remuneração e histórico dos funcionários.  
 - **Variável-Alvo:** `Attrition` (Saída do funcionário: **1 = Sim**, **0 = Não**).  
